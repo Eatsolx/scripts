@@ -15,4 +15,7 @@ amixer set Master unmute
 #路由表
 source ~/Desktop/openvpn/add_routes &
 #分辨率
+xrandr --output HDMI-A-0 --mode 1920x1080 --rate 74.97
+xrandr --output HDMI-A-1 --mode 1920x1080 --rate 74.97
+xrandr --output HDMI-A-2 --mode 1920x1080 --rate 74.97
 xrandr --output HDMI-A-3 --mode 1920x1080 --rate 74.97
